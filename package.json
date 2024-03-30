@@ -1,0 +1,31 @@
+{
+  "name": "elodie",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "gsap": "^3.12.5",
+    "gulp": "^3.9.1",
+    "pinia": "^2.1.7",
+    "scrollreveal": "^4.0.9",
+    "three": "^0.161.0",
+    "typed.js": "^2.1.0",
+    "vue": "^3.4.15",
+    "vue-flux": "^7.0.0-beta.5",
+    "vue-router": "^4.2.5",
+    "vue3-carousel": "^0.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.3",
+    "autoprefixer": "^10.4.17",
+    "postcss": "^8.4.35",
+    "tailwindcss": "^3.4.1",
+    "vite": "^5.0.11"
+  }
+}
